@@ -13,7 +13,7 @@ gTTS: pip install gtts
 SpeakingDictionary.py
 
 ### Screenshot/GIF showing the sample use of the script
-(https://user-images.githubusercontent.com/69775935/140873415-dc79bdd7-d36e-4ca5-ae6f-4da88837f5f0.png)
+https://user-images.githubusercontent.com/69775935/140873415-dc79bdd7-d36e-4ca5-ae6f-4da88837f5f0.png
 
 ### Author Name
 Yaejin Lee : 19lyaejin, https://github.com.19lyaejin
